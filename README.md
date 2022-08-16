@@ -8,5 +8,7 @@ ex) 요구사항, 서버 or erd 구성도, 사용 기술 리서치 등등 관련
 
 ## 프로젝트 관련 문서 링크
 
-* 프로젝트 개요 [Notion](https://rogue-cinema-c09.notion.site/c826db46d9d24c5e90fa973fe5783063).
-* ERD (erd cloud이용 예정)
+* [프로젝트 개요 Notion](https://rogue-cinema-c09.notion.site/c826db46d9d24c5e90fa973fe5783063)
+* ERD 
+[ERD Cloud Link](https://www.erdcloud.com/d/qdr2AhGwwqdpxYshN)
+<iframe width="600" height="336" src="https://www.erdcloud.com/p/qdr2AhGwwqdpxYshN" frameborder="0" allowfullscreen></iframe>
